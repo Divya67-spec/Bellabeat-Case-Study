@@ -1,8 +1,5 @@
-Google Data Analytics Capstone : Fitbit health tracker analysis with Power BI 
 # Bellabeat Case Study: Fitbit Smart-Device Usage Analysis
-
-Google Data Analytics Capstone | Power BI
-
+Google Data Analytics Capstone : Fitbit health tracker analysis with Power BI
 ## Business Question
 What trends in smart-device usage can help Bellabeat, a wellness technology company, shape its marketing strategy?
 
